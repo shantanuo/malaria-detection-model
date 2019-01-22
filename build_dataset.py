@@ -1,4 +1,4 @@
-from cnn import config # our configuration file
+from CNN import config # our configuration file
 from imutils import paths # you need to download this! refer to above
 import random
 import shutil
